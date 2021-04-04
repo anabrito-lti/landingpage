@@ -1,0 +1,36 @@
+body {
+text-align: center;
+font-family: arial;
+background-image: url(imagens/imagem.jpg);
+background-size: cover;
+color: blue;
+}
+
+h1 {
+	font-size: 80px;
+	padding-top: 150px;
+	text-shadow: 2px 2px 2px gray;
+	margin-bottom: 10px;
+}
+
+h3 {
+	font-size: 40px;
+	padding-top: 50px;
+}
+
+p {
+	font-size: 30px;
+}
+
+ol	{
+	font-size: 25px;
+}
+
+.botao {
+	text-decoration: none;
+	background-color: blue;
+	color: white;
+	font-size: 15px;
+	padding: 10px 10px 10px 10px;
+	border-radius: 50px;
+}
